@@ -1,4 +1,4 @@
-package gois.study.tdjdkata.optional;
+package gois.study.tdjdkata.optionals;
 
 public class Student {
 
